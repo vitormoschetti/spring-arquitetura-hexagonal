@@ -1,4 +1,4 @@
-package br.com.hexagonal.application.shared;
+package br.com.hexagonal.domain.shared.exception;
 
 public class DomainException extends RuntimeException {
 

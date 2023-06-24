@@ -1,4 +1,4 @@
-package br.com.hexagonal.application.product;
+package br.com.hexagonal.domain.product.enums;
 
 public enum ProductStatus {
 
